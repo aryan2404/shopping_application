@@ -24,7 +24,7 @@ margin-left:5%;
 `;
 const Logo = Styled.h3`
 margin-bottom:10px;
-color:orangered;
+color:black;
 font-size:25px;
 cursor:pointer;
 `;
@@ -104,7 +104,7 @@ function Footer() {
     <Wrapper>
       <Left>
         <Link to="/" style={{ textDecoration: "none" }}>
-          <Logo>AZUR</Logo>
+          <Logo>E_SHOP</Logo>
         </Link>
 
         <Desc>

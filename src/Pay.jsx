@@ -36,7 +36,7 @@ function Pay() {
 
   return (<>
   <StripeCheckout
-  name='AZURE'
+  name='E_Shop'
   image='logo'
   billingAddress
   shippingAddress
